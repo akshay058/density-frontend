@@ -3,6 +3,7 @@ import CommentsSlider from "@/Components/commentsSlider";
 import EQbeatsIQ from "@/Components/eqBeatsIQ";
 import IconsAnimation from "@/Components/iconsAnimation";
 import Introduction from "@/Components/intoduction";
+import RateSkillSlider from "@/Components/rateSkillSlider";
 import SelfImproveSlider from "@/Components/selfImproveSlider";
 import { Inter } from "next/font/google";
 
@@ -17,6 +18,7 @@ export default function Home() {
       <CommentsSlider />
       <SelfImproveSlider />
       <BestEqText />
+      <RateSkillSlider />
     </>
   );
 }
