@@ -37,3 +37,5 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 5. Open your browser and visit: `http://localhost:3000`
 
 ## Live Deploy:
+
+https://akshay-density-ui-task.netlify.app/
