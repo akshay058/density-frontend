@@ -1,8 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Box, Image } from "@chakra-ui/react";
 
-// import './InnerDiv.css'; // You can define your CSS styles in this file
-
 const InnerDiv = () => {
   const [isInViewport, setIsInViewport] = useState(false);
   const [isExpanded, setIsExpanded] = useState(false);
