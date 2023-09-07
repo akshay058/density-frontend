@@ -1,3 +1,4 @@
+import CommentsSlider from "@/Components/commentsSlider";
 import EQbeatsIQ from "@/Components/eqBeatsIQ";
 import IconsAnimation from "@/Components/iconsAnimation";
 import Introduction from "@/Components/intoduction";
@@ -11,6 +12,7 @@ export default function Home() {
       <Introduction />
       <IconsAnimation />
       <EQbeatsIQ />
+      <CommentsSlider />
     </>
   );
 }
